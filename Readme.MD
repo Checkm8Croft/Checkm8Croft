@@ -17,6 +17,8 @@ This is my secondary account — my main account is [Checkm8ra1n](https://github
 > For more projects and contributions, check out my main account:  
 > **[Checkm8ra1n](https://github.com/Checkm8ra1n)**
 
+> You can enter on my [discord server:](https://discord.gg/zmtkMK98hZ)
+
 ## 📈 GitHub Stats
 
 ![Checkm8Croft's GitHub stats](https://github-readme-stats.vercel.app/api?username=Checkm8Croft&show_icons=true)
