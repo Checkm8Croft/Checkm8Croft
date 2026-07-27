@@ -13,11 +13,17 @@ This is my secondary account — my main account is [Checkm8ra1n](https://github
 
 - [Apple Raider](https://github.com/Checkm8Croft/AppleRaider) – Tomb Raider stuff for macOS.
 - [Tomb Raider Levels Open Source](https://github.com/Checkm8Croft/Tomb-Raider-Levels-Open-Source) – Extracting Tomb Raider PRJ and adjusting them for Tomb Editor.
+- [TRX iOS](https://github.com/Checkm8Croft/TRX/tree/ios) - TRX ported to GLES, compatible with iOS
+- [Minecraft Raider](https://github.com/Checkm8Croft/Minecraft-Raider) - Tool for converting Tomb Raider OBJ levels to Minecraft Schematics
+- [PRJ2 Extractor](https://github.com/Checkm8Croft/PRJ2-Extractor) - Extract PRJ2 files from Tomb Raider Levels
 
 > For more projects and contributions, check out my main account:  
-> **[Checkm8ra1n](https://github.com/Checkm8ra1n)**
 
-> You can enter on my [discord server:](https://discord.gg/zmtkMK98hZ)
+<a href="https://github.com/Checkm8ra1n">
+    <img src="https://img.shields.io/badge/GitHub-2nd%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
+
+> You can enter on my ![Discord Server](https://img.shields.io/discord/:zmtkMK98hZ)
 
 ## 📈 GitHub Stats
 
