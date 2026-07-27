@@ -23,7 +23,7 @@ This is my secondary account — my main account is [Checkm8ra1n](https://github
     <img src="https://img.shields.io/badge/GitHub-main%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
 
-> You can enter on my ![Discord Server](https://img.shields.io/discord/:1477733881351245854)
+> You can enter on my ![Discord Server](https://img.shields.io/discord/1477733881351245854)
 
 ## 📈 GitHub Stats
 
