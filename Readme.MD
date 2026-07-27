@@ -20,10 +20,10 @@ This is my secondary account — my main account is [Checkm8ra1n](https://github
 > For more projects and contributions, check out my main account:  
 
 <a href="https://github.com/Checkm8ra1n">
-    <img src="https://img.shields.io/badge/GitHub-2nd%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-main%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
 
-> You can enter on my ![Discord Server](https://img.shields.io/discord/:zmtkMK98hZ)
+> You can enter on my ![Discord Server](https://img.shields.io/discord/:1477733881351245854)
 
 ## 📈 GitHub Stats
 
